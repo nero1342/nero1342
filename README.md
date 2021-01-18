@@ -19,12 +19,12 @@
 
 ---
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true&show_icon=true&theme=vue-dark"/>][my_github]
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanlun&langs_count=8&layout=compact&count_private=true&theme=vue-dark"/>][my_github]
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=nero1342&count_private=true&show_icon=true&theme=vue-dark"/>][my_github]
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nero1342&langs_count=8&layout=compact&count_private=true&theme=vue-dark"/>][my_github]
 
 
 <!--
-**nhanlun/nhanlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nero1342/nero1342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[facebook]:https://www.facebook.com/nhanlunn/
-[linkedin]:https://www.linkedin.com/in/nhan-nguyen-1401/
-[my_github]:https://github.com/nhanlun
+[facebook]:https://www.facebook.com/nicky.rio/
+[linkedin]:https://www.linkedin.com/in/nero1342/
+[my_github]:https://github.com/nero1342
