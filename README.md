@@ -1,7 +1,6 @@
-# Hi there, I'm Nhan Nguyen 👋
+# Hi there, I'm E-Ro Nguyen 👋
 
 - I'm currently a student of the Advanced Program in Computer Science of Ho Chi Minh University of Science
-- I'm passionate about learning new things and programming
 
 ### Connect with me:
 [<img align="left" alt="Facebook" width="22px" src="/icon/facebook.svg"/>][facebook]
