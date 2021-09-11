@@ -1,7 +1,7 @@
 # Hi there, I'm E-Ro Nguyen 👋
 
 - I'm currently a student of the Advanced Program in Computer Science of Ho Chi Minh University of Science
-
+- My website: https://nero1342.github.io/
 ### Connect with me:
 [<img align="left" alt="Facebook" width="22px" src="/icon/facebook.svg"/>][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="/icon/linkedin.svg"/>][linkedin] 
