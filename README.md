@@ -1,7 +1,7 @@
 # Hi there, I'm E-Ro Nguyen 👋
 
 - I earned a Bachelor's degree in Computer Science in the APCS at the University of Science, VNU-HCM.
-- My website: https://nero1342.site/
+- My website: https://nero1342.github.io/
   
 ![](https://komarev.com/ghpvc/?username=nero1342&color=orange&style=flat-square)
 
