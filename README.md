@@ -1,19 +1,24 @@
 # Hi there, I'm E-Ro Nguyen 👋
 
-- I'm currently a student of the Advanced Program in Computer Science of Ho Chi Minh University of Science
-- My website: https://nero1342.github.io/
+- I earned a Bachelor's degree in Computer Science in the APCS at the University of Science, VNU-HCM.
+- My website: https://nero1342.site/
+  
+![](https://komarev.com/ghpvc/?username=nero1342&color=orange&style=flat-square)
+
 ### Connect with me:
 [<img align="left" alt="Facebook" width="22px" src="/icon/facebook.svg"/>][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="/icon/linkedin.svg"/>][linkedin] 
 
-<br />
+---
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+---
 
+<br />
 ### Languages and tools:
 <img align="left" alt="C++" width="22px" src="/icon/c++.svg"/>
 <img align="left" alt="Java" width="22px" src="/icon/java.svg"/>
 <img align="left" alt="Python" width="22px" src="/icon/python.svg"/>
 <img align="left" alt="git" width="22px" src="/icon/git.svg"/>
-
 <br />
 
 ---
