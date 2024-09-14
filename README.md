@@ -1,9 +1,8 @@
 # Hi there, I'm E-Ro Nguyen 👋
-- I will be a CS Ph.D. student at Stony Brook University this Fall (2024). 
+- I am currently a CS Ph.D. student at Stony Brook University. 
 - I earned a Bachelor's degree in Computer Science in the APCS at the University of Science, VNU-HCM.
-- My website: https://nero1342.github.io/
+- My website: https://eronguyen.me/
 
-  
 ![](https://komarev.com/ghpvc/?username=nero1342&color=orange&style=flat-square)
 
 ### Connect with me:
